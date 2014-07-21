@@ -1,2 +1,3 @@
 TEMPLATE = subdirs
-SUBDIRS += shake qtsensors
+#SUBDIRS += shake qtsensors
+SUBDIRS += sailfish
